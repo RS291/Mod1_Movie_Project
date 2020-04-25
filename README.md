@@ -13,3 +13,4 @@ I used Beautiful Soup, requests, json, numpy, locale, and pandas, to scrape, cle
 Then used matplotlib and seaborn to illustrate my results. 
 
 My data used is a blend of the supplied CSV & TSV documents and a dataset of the 1000 top movies that I scraped from IMDB. 
+My cleaning of the supplied data is found in DataCleaningProvidedCSVs.ipynb and the remainder of my code is found in ScrapingCLeaningModeling.ipynb.
